@@ -1,6 +1,3 @@
-## Hi there 👋
-# 👋 Hi there, I'm SANG YEON!
-
 🌱 **Junior Backend Software Engineer**
 
 📫 **Contact Me:** [sangy920@gmail.com](mailto:sangy920@gmail.com)
